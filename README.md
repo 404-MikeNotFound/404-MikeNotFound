@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @404-MikeNotFound
-- 🎓 Pursuing a Bachelor's in Information Technology.  
+- 👋 Hi, I’m @404-MikeNotFound 
 - 💻 Skills: Python, Java, SQL, HTML/CSS, JavaScript.  
 
 <!---
